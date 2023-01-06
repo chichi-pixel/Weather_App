@@ -1,4 +1,4 @@
-# Weather_App
+# weather warning via SMS!
 #python #apikeys #environmentvariables #authentication #twilio
 
 Halloschen Leute, die Code ist über API-Schlüssel, Authentifizierung, Umgebungsvariablen
