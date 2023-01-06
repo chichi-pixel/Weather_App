@@ -1,21 +1,21 @@
 # Weather_App
 #python #apikeys #environmentvariables #authentication #twilio
 
-Halloschen Leute, lernen wir über API-Schlüssel, Authentifizierung, Umgebungsvariablen
+Halloschen Leute, die Code ist über API-Schlüssel, Authentifizierung, Umgebungsvariablen
 und auch das Senden von SMS mit Python! 
 
 - fortschrittlichere Möglichkeiten zur Verwendung von APIs zu untersuchen und
-wie wir uns bei einem API-Anbieter authentifizieren können, um Zugriff auf
+wie du dich bei einem API-Anbieter authentifizieren kannst, um Zugriff auf
 wertvollere Daten zu erhalten. 
 
--eine API wie Twilio verwenden können, um SMS-Nachrichten an uns
-selbst zu senden, damit wir überall benachrichtigt werden können.
+- eine API wie Twilio verwenden können, um SMS-Nachrichten an sich
+selbst zu senden, damit du überall benachrichtigt werden kannst
 
--schließlich werfen wir einen Blick darauf, welche Umgebungsvariablen im Zusammenhang mit
+- schließlich, welche Umgebungsvariablen im Zusammenhang mit
 ihrer Verwendung zum sicheren Speichern von API-Schlüsseln stehen.
 
--Sunny Day! Wir werden also Python-Code schreiben, der uns morgens, kurz bevor wir losfahren, 
-eine SMS schickt, die uns sagt, dass wir eine Sonne Brille mitbringen sollen, wenn es tagsüber regnen wird.
+- # Sunny Day! ein Python-Code schreiben, der uns morgens, kurz bevor du losfährst, 
+eine SMS schickt, die uns sagt, dass wir eine Sonne Brille mitbringen sollst, wenn es tagsüber regnen wird.
 
                                 =>>> Next: API-Authentifizierung <<<=
                                 
