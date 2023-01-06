@@ -14,7 +14,9 @@ selbst zu senden, damit du überall benachrichtigt werden kannst
 - schließlich, welche Umgebungsvariablen im Zusammenhang mit
 ihrer Verwendung zum sicheren Speichern von API-Schlüsseln stehen.
 
-- # Sunny Day! ein Python-Code schreiben, der uns morgens, kurz bevor du losfährst, 
+- ## Sunny Day! 
+
+- ein Python-Code schreiben, der uns morgens, kurz bevor du losfährst, 
 eine SMS schickt, die uns sagt, dass wir eine Sonne Brille mitbringen sollst, wenn es tagsüber regnen wird.
 
                                 =>>> Next: API-Authentifizierung <<<=
