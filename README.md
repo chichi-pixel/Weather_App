@@ -17,7 +17,7 @@ ihrer Verwendung zum sicheren Speichern von API-Schlüsseln stehen.
 - ## Sunny Day! 
 
 - ein Python-Code schreiben, der uns morgens, kurz bevor du losfährst, 
-eine SMS schickt, die uns sagt, dass wir eine Sonne Brille mitbringen sollst, wenn es tagsüber regnen wird.
+eine SMS schickt, die uns sagt, dass du eine Sonne Brille mitbringen sollst, wenn es tagsüber regnen wird.
 
                                 =>>> Next: API-Authentifizierung <<<=
                                 
